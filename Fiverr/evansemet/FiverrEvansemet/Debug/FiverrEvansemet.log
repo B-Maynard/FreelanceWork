@@ -1,0 +1,10 @@
+﻿  ExcelDateAndTime.cpp
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(24,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(30,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Helpers.cpp
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(24,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(30,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Testing.cpp
+  Generating Code...
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(38): warning C4172: returning address of local variable or temporary: monthAndYear
+python38.lib(python38.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

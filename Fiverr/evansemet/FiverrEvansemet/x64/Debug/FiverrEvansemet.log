@@ -1,0 +1,24 @@
+﻿  ExcelDateAndTime.cpp
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(241,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(251,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(252,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(257,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(271,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(572,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(580,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(588,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(596,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(604,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(612,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(620,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(980,104): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1074,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1079,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1084,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1089,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1094,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1099,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1104,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1152,126): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(158): warning C4715: 'EXCEL_DATEDIF': not all control paths return a value
+  FiverrEvansemet.vcxproj -> E:\Code\Fiverr\evansemet\FiverrEvansemet\x64\Debug\ExcelDateAndTime.exe

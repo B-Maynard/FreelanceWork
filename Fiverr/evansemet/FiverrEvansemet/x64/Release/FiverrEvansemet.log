@@ -1,0 +1,35 @@
+﻿  ExcelDateAndTime.cpp
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(241,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(251,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(252,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(257,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(271,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(576,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(584,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(592,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(600,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(608,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(616,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(624,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(984,104): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1078,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1083,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1088,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1093,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1098,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1103,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1108,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(1156,126): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Helpers.cpp
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(241,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(251,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(252,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(257,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Fiverr\evansemet\FiverrEvansemet\Helpers.cpp(271,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     Creating library E:\Code\Fiverr\evansemet\FiverrEvansemet\x64\Release\ExcelDateAndTime.lib and object E:\Code\Fiverr\evansemet\FiverrEvansemet\x64\Release\ExcelDateAndTime.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+E:\Code\Fiverr\evansemet\FiverrEvansemet\ExcelDateAndTime.cpp(161): warning C4715: 'EXCEL_DATEDIF': not all control paths return a value
+  All 2556 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FiverrEvansemet.vcxproj -> E:\Code\Fiverr\evansemet\FiverrEvansemet\x64\Release\ExcelDateAndTime.pyd
